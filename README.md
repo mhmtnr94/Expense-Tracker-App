@@ -33,8 +33,6 @@ A mobile application that allows users to:
 - [x] Categorize transactions (e.g. Food, Transport, Bills)
 - [x] Display total balance, income, and expenses
 - [x] View transaction history
-- [ ] Filter by date or category
-- [ ] Light / Dark Mode toggle
 - [x] Persistent data (AsyncStorage or local DB)
 - [x] Responsive design for Android & iOS
 
