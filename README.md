@@ -29,14 +29,14 @@ A mobile application that allows users to:
 ## ✅ Goals / Features
 
 - [x] Clean and modern UI
-- [ ] Add income and expense entries
-- [ ] Categorize transactions (e.g. Food, Transport, Bills)
-- [ ] Display total balance, income, and expenses
-- [ ] View transaction history
-- [ ] Filter by date or category
+- [x] Add income and expense entries
+- [x] Categorize transactions (e.g. Food, Transport, Bills)
+- [x] Display total balance, income, and expenses
+- [x] View transaction history
+- [] Filter by date or category
 - [ ] Light / Dark Mode toggle
-- [ ] Persistent data (AsyncStorage or local DB)
-- [ ] Responsive design for Android & iOS
+- [x] Persistent data (AsyncStorage or local DB)
+- [x] Responsive design for Android & iOS
 
 ---
 
