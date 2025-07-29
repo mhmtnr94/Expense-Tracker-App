@@ -38,33 +38,6 @@ A mobile application that allows users to:
 
 ---
 
-## 📁 Folder Structure
-
-/expense-tracker-app  
-├── assets/  
-├── components/  
-├── hooks/  
-├── screens/  
-├── store/  
-├── utils/  
-├── App.tsx  
-└── ...
-
----
-
-## 🧩 AI Instructions for Cursor
-
-You may use the following commands or comments when working with Cursor AI:
-
-- "Create a reusable `TransactionCard` component."
-- "Set up navigation between Home and AddTransaction screens."
-- "Implement Zustand store to manage transactions and balance."
-- "Build a chart using Victory-Native showing weekly expenses."
-- "Style components with Tailwind."
-- "Save all transactions locally using AsyncStorage."
-
----
-
 ## 🔧 Setup Instructions
 
 ```bash
