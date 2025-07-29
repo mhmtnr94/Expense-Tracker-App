@@ -44,7 +44,7 @@ A mobile application that allows users to:
 npx create-expo-app expense-tracker-app -t with-typescript
 cd expense-tracker-app
 
-npm install nativewind react-native-svg victory-native zustand @react-navigation/native \
+npm install react-native-svg victory-native zustand @react-navigation/native \
   @react-navigation/native-stack react-native-safe-area-context \
   @react-native-async-storage/async-storage
 
