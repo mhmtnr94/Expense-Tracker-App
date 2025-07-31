@@ -1,7 +1,7 @@
-# 📱 Expense Tracker App (React Native + Cursor AI)
+# 📱 Expense Tracker App (React Native Expo)
 
 ## 🧠 AI Development Environment
-This project is being developed using **Cursor AI**, with the help of Copilot Chat and AI Autocomplete features.
+This project is being developed with React Native Expo
 
 ---
 
